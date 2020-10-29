@@ -29,9 +29,6 @@ a{
   text-decoration: none;
   margin-left: 10px;
 }
-a:hover{
-  color: blue;
-}
 p{
   font-family: 'Montserrat';
   text-align: center;
@@ -72,17 +69,26 @@ padding-right: 20px;
   height: 53px;
   width: 53px;
 }
+.anc1:hover{
+  color: blue;
+}
 .anc2{
   margin-right: 60px;
 padding-bottom: 3px;
   height: 45px;
   width: 45px;
 }
+.anc2:hover{
+  color: blue;
+}
 .anc3{
   padding-left: 7px;
   padding-bottom: 8px;
   height: 35px;
   width: 35px;
+}
+.anc3:hover{
+  color: blue;
 }
 .abc{
   position: absolute;
