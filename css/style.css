@@ -29,6 +29,9 @@ a{
   text-decoration: none;
   margin-left: 10px;
 }
+a:hover{
+  color: blue;
+}
 p{
   font-family: 'Montserrat';
   text-align: center;
